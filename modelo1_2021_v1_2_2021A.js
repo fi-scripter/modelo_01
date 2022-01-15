@@ -1,6 +1,5 @@
 /*< 424 > ══════════════════════════════ Números - Exploração - Banco de Dados ══════════════════════════════
-	** MODELO 1 **
-	Função → Num_Exploração.
+	** MODELO 1  v. 0.01-1.22 **
  
 */
 var ativaselec;										
